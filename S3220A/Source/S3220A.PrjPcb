@@ -229,7 +229,7 @@ UniqueID=B32F74C4-F0E9-4927-AA29-2AFFF947059A
 Description=S3220A_A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=47
+VariationCount=49
 Variation1=Designator=R30|UniqueId=\FJIUDCBZ|Kind=0|AlternatePart= 
 Variation2=Designator=R31|UniqueId=\TVSMWFUO|Kind=0|AlternatePart= 
 Variation3=Designator=C29|UniqueId=\PVRCZOVC|Kind=1|AlternatePart= 
@@ -277,6 +277,8 @@ Variation44=Designator=R65|UniqueId=\DRIQSNXW|Kind=1|AlternatePart=
 Variation45=Designator=R66|UniqueId=\UBUWGDDX|Kind=1|AlternatePart= 
 Variation46=Designator=R67|UniqueId=\IBSLDHOH|Kind=1|AlternatePart= 
 Variation47=Designator=R1|UniqueId=\HDPRTLAW|Kind=1|AlternatePart= 
+Variation48=Designator=CN3|UniqueId=\ZIJRAWWR|Kind=1|AlternatePart= 
+Variation49=Designator=CN1|UniqueId=\MIIDHFKU|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
