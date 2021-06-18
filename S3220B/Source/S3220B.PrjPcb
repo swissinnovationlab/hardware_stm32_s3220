@@ -54,7 +54,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BQJEPQBJ
+DocumentUniqueId=NGJEYNJW
 
 [Document2]
 DocumentPath=..\..\..\hardware_altium\Libraries\PCB\SIL.PcbLib
@@ -80,7 +80,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -88,7 +88,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DJPODVJM
+DocumentUniqueId=LBJAURFR
 
 [Document4]
 DocumentPath=S3220B2.SchDoc
@@ -97,7 +97,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -114,7 +114,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -131,7 +131,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -241,9 +241,9 @@ Variation6=Designator=CN11|UniqueId=\UXTRECEE|Kind=1|AlternatePart=
 Variation7=Designator=CN8|UniqueId=\YOZHHALU|Kind=1|AlternatePart= 
 Variation8=Designator=CN9|UniqueId=\WZVMVDKN|Kind=1|AlternatePart= 
 Variation9=Designator=U5|UniqueId=\UJBVDLTV|Kind=1|AlternatePart= 
-Variation10=Designator=R9|UniqueId=\ONUMUYYP|Kind=1|AlternatePart= 
+Variation10=Designator=R9|UniqueId=\UHWIZNEX|Kind=1|AlternatePart= 
 Variation11=Designator=R7|UniqueId=\OEEEHKPN|Kind=1|AlternatePart= 
-Variation12=Designator=R12|UniqueId=\SHVITICA|Kind=1|AlternatePart= 
+Variation12=Designator=R12|UniqueId=\CMYVNJVA|Kind=1|AlternatePart= 
 Variation13=Designator=R14|UniqueId=\YHZMUSAK|Kind=1|AlternatePart= 
 Variation14=Designator=CN12|UniqueId=\WMDJGBTS|Kind=1|AlternatePart= 
 Variation15=Designator=C24|UniqueId=\UMRFQFXD|Kind=1|AlternatePart= 
@@ -257,7 +257,7 @@ Variation22=Designator=R40|UniqueId=\RWBGRLBV|Kind=1|AlternatePart=
 Variation23=Designator=D2|UniqueId=\HERKJKSM|Kind=1|AlternatePart= 
 Variation24=Designator=R2|UniqueId=\CAIPKILL|Kind=1|AlternatePart= 
 Variation25=Designator=CN4|UniqueId=\TKRKRZQD|Kind=1|AlternatePart= 
-Variation26=Designator=R4|UniqueId=\WXUFONFK|Kind=1|AlternatePart= 
+Variation26=Designator=R4|UniqueId=\JQUTENRW|Kind=1|AlternatePart= 
 Variation27=Designator=R25|UniqueId=\JZYMDUII|Kind=1|AlternatePart= 
 Variation28=Designator=R42|UniqueId=\WIBHTIDY|Kind=1|AlternatePart= 
 Variation29=Designator=R43|UniqueId=\JEHCXBWD|Kind=1|AlternatePart= 
@@ -267,7 +267,7 @@ Variation32=Designator=R70|UniqueId=\IBSLDHOH|Kind=1|AlternatePart=
 Variation33=Designator=R1|UniqueId=\HDPRTLAW|Kind=1|AlternatePart= 
 Variation34=Designator=CN3|UniqueId=\ZIJRAWWR|Kind=1|AlternatePart= 
 Variation35=Designator=CN1|UniqueId=\MIIDHFKU|Kind=1|AlternatePart= 
-Variation36=Designator=R11|UniqueId=\WLVAYMRE|Kind=1|AlternatePart= 
+Variation36=Designator=R11|UniqueId=\WDNAEUPG|Kind=1|AlternatePart= 
 Variation37=Designator=R13|UniqueId=\XRDBHGVM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
@@ -664,6 +664,12 @@ OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=BOM_ReportCompare
+OutputName8=BOM Compare
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -877,36 +883,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
