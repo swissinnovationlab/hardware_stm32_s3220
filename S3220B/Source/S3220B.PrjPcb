@@ -236,8 +236,8 @@ VariationCount=19
 Variation1=Designator=R51|UniqueId=\UEAYACEA|Kind=1|AlternatePart= 
 Variation2=Designator=CN11|UniqueId=\UXTRECEE|Kind=1|AlternatePart= 
 Variation3=Designator=U5|UniqueId=\UJBVDLTV|Kind=1|AlternatePart= 
-Variation4=Designator=R12|UniqueId=\CMYVNJVA|Kind=1|AlternatePart= 
-Variation5=Designator=R14|UniqueId=\YHZMUSAK|Kind=1|AlternatePart= 
+Variation4=Designator=R12|UniqueId=\CMYVNJVA|Kind=0|AlternatePart= 
+Variation5=Designator=R14|UniqueId=\YHZMUSAK|Kind=0|AlternatePart= 
 Variation6=Designator=R32|UniqueId=\CJYNXIYD|Kind=1|AlternatePart= 
 Variation7=Designator=R31|UniqueId=\JUCSSJEH|Kind=1|AlternatePart= 
 Variation8=Designator=R30|UniqueId=\BXJCRAIV|Kind=1|AlternatePart= 
@@ -249,7 +249,7 @@ Variation13=Designator=R68|UniqueId=\DRIQSNXW|Kind=1|AlternatePart=
 Variation14=Designator=R69|UniqueId=\UBUWGDDX|Kind=1|AlternatePart= 
 Variation15=Designator=R70|UniqueId=\IBSLDHOH|Kind=1|AlternatePart= 
 Variation16=Designator=CN3|UniqueId=\ZIJRAWWR|Kind=1|AlternatePart= 
-Variation17=Designator=R11|UniqueId=\WDNAEUPG|Kind=1|AlternatePart= 
+Variation17=Designator=R11|UniqueId=\WDNAEUPG|Kind=0|AlternatePart= 
 Variation18=Designator=R13|UniqueId=\XRDBHGVM|Kind=1|AlternatePart= 
 Variation19=Designator=R21|UniqueId=\NXHCWXOP|Kind=0|AlternatePart= 
 ParamVariationCount=0
@@ -2481,6 +2481,9 @@ ComponentDesignItemID78=MMA8452Q
 ComponentSymbolReference78=MMA8452Q
 ComponentUpdate78=1
 ComponentIsDeviceSheet78=0
+
+[NetInfos]
+Net1=NetName=USB_VBUS|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
