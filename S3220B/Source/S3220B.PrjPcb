@@ -251,6 +251,10 @@ Variation15=Designator=C28|UniqueId=\YEITJPGO|Kind=1|AlternatePart=
 Variation16=Designator=R36|UniqueId=\QBBVOBDS|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for S3200C\Design Rule Check - S3220B.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
