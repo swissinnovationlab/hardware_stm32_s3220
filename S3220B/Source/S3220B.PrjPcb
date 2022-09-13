@@ -95,7 +95,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LBJAURFR
+DocumentUniqueId=TUYRSABT
 
 [Document4]
 DocumentPath=S3220B2.SchDoc
@@ -112,7 +112,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MCLYNUQF
+DocumentUniqueId=SASTKBNE
 
 [Document5]
 DocumentPath=S3220B3.SchDoc
@@ -238,7 +238,7 @@ UniqueID=B32F74C4-F0E9-4927-AA29-2AFFF947059A
 Description=S3220B_A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=19
+VariationCount=20
 Variation1=Designator=U3|UniqueId=\UJBVDLTV|Kind=1|AlternatePart= 
 Variation2=Designator=R47|UniqueId=\CJYNXIYD|Kind=1|AlternatePart= 
 Variation3=Designator=R45|UniqueId=\JUCSSJEH|Kind=1|AlternatePart= 
@@ -258,6 +258,7 @@ Variation16=Designator=C26|UniqueId=\XWKKKLEM|Kind=1|AlternatePart=
 Variation17=Designator=CN10|UniqueId=\RPNSYWBL|Kind=1|AlternatePart= 
 Variation18=Designator=R41|UniqueId=\VCOIQSSQ|Kind=1|AlternatePart= 
 Variation19=Designator=L1|UniqueId=\YUELOSCL|Kind=1|AlternatePart= 
+Variation20=Designator=R36|UniqueId=\KBVNIOLR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
