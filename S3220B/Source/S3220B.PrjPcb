@@ -238,7 +238,7 @@ UniqueID=B32F74C4-F0E9-4927-AA29-2AFFF947059A
 Description=S3220B_A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=24
+VariationCount=32
 Variation1=Designator=U3|UniqueId=\UJBVDLTV|Kind=1|AlternatePart= 
 Variation2=Designator=R47|UniqueId=\CJYNXIYD|Kind=1|AlternatePart= 
 Variation3=Designator=R45|UniqueId=\JUCSSJEH|Kind=1|AlternatePart= 
@@ -263,6 +263,14 @@ Variation21=Designator=Q4|UniqueId=\LSVHYHPA|Kind=1|AlternatePart=
 Variation22=Designator=R15|UniqueId=\MLJOMKAK|Kind=1|AlternatePart= 
 Variation23=Designator=R16|UniqueId=\SRTPJSEZ|Kind=1|AlternatePart= 
 Variation24=Designator=R85|UniqueId=\HBIARVYV|Kind=1|AlternatePart= 
+Variation25=Designator=Q11|UniqueId=\YSUQRTZZ|Kind=1|AlternatePart= 
+Variation26=Designator=Q12|UniqueId=\IMUOZXFE|Kind=1|AlternatePart= 
+Variation27=Designator=Q18|UniqueId=\KNUILIOO|Kind=1|AlternatePart= 
+Variation28=Designator=Q19|UniqueId=\CTCCJTWF|Kind=1|AlternatePart= 
+Variation29=Designator=R63|UniqueId=\HGYNVPGC|Kind=1|AlternatePart= 
+Variation30=Designator=R64|UniqueId=\NYUQUGKL|Kind=1|AlternatePart= 
+Variation31=Designator=R58|UniqueId=\ZZYRTNJK|Kind=1|AlternatePart= 
+Variation32=Designator=R57|UniqueId=\EMUGBVNJ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -427,7 +435,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Canon LBP6020
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
