@@ -214,7 +214,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CEVJPCIL
+DocumentUniqueId=YDTGNSEP
 
 [Document11]
 DocumentPath=Panelized_S3220B.PcbDoc
@@ -238,33 +238,37 @@ UniqueID=B32F74C4-F0E9-4927-AA29-2AFFF947059A
 Description=S3220B_A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=26
+VariationCount=30
 Variation1=Designator=U3|UniqueId=\UJBVDLTV|Kind=1|AlternatePart= 
-Variation2=Designator=R47|UniqueId=\CJYNXIYD|Kind=1|AlternatePart= 
-Variation3=Designator=R45|UniqueId=\JUCSSJEH|Kind=1|AlternatePart= 
+Variation2=Designator=R46|UniqueId=\CJYNXIYD|Kind=1|AlternatePart= 
+Variation3=Designator=R44|UniqueId=\JUCSSJEH|Kind=1|AlternatePart= 
 Variation4=Designator=R42|UniqueId=\BXJCRAIV|Kind=1|AlternatePart= 
-Variation5=Designator=C24|UniqueId=\METLFHMI|Kind=1|AlternatePart= 
-Variation6=Designator=R55|UniqueId=\RWBGRLBV|Kind=1|AlternatePart= 
-Variation7=Designator=D5|UniqueId=\HERKJKSM|Kind=1|AlternatePart= 
-Variation8=Designator=C28|UniqueId=\QWXAKJLB|Kind=1|AlternatePart= 
-Variation9=Designator=C29|UniqueId=\YEITJPGO|Kind=1|AlternatePart= 
-Variation10=Designator=R46|UniqueId=\QBBVOBDS|Kind=1|AlternatePart= 
+Variation5=Designator=C26|UniqueId=\METLFHMI|Kind=1|AlternatePart= 
+Variation6=Designator=R54|UniqueId=\RWBGRLBV|Kind=1|AlternatePart= 
+Variation7=Designator=D7|UniqueId=\HERKJKSM|Kind=1|AlternatePart= 
+Variation8=Designator=C29|UniqueId=\QWXAKJLB|Kind=1|AlternatePart= 
+Variation9=Designator=C30|UniqueId=\YEITJPGO|Kind=1|AlternatePart= 
+Variation10=Designator=R45|UniqueId=\QBBVOBDS|Kind=1|AlternatePart= 
 Variation11=Designator=CN5|UniqueId=\UWUGNBPU|Kind=1|AlternatePart= 
 Variation12=Designator=R29|UniqueId=\PZNWBBEN|Kind=1|AlternatePart= 
 Variation13=Designator=R6|UniqueId=\DRKEDHIE|Kind=1|AlternatePart= 
-Variation14=Designator=C25|UniqueId=\KVAQPXQB|Kind=1|AlternatePart= 
-Variation15=Designator=C26|UniqueId=\XWKKKLEM|Kind=1|AlternatePart= 
+Variation14=Designator=C27|UniqueId=\KVAQPXQB|Kind=1|AlternatePart= 
+Variation15=Designator=C28|UniqueId=\XWKKKLEM|Kind=1|AlternatePart= 
 Variation16=Designator=CN10|UniqueId=\RPNSYWBL|Kind=1|AlternatePart= 
 Variation17=Designator=R41|UniqueId=\VCOIQSSQ|Kind=1|AlternatePart= 
 Variation18=Designator=L1|UniqueId=\YUELOSCL|Kind=1|AlternatePart= 
 Variation19=Designator=R36|UniqueId=\KBVNIOLR|Kind=1|AlternatePart= 
 Variation20=Designator=R10|UniqueId=\CPBETDDT|Kind=1|AlternatePart= 
-Variation21=Designator=Q4|UniqueId=\LSVHYHPA|Kind=1|AlternatePart= 
+Variation21=Designator=Q2|UniqueId=\LSVHYHPA|Kind=1|AlternatePart= 
 Variation22=Designator=R15|UniqueId=\MLJOMKAK|Kind=1|AlternatePart= 
 Variation23=Designator=R16|UniqueId=\SRTPJSEZ|Kind=1|AlternatePart= 
-Variation24=Designator=R85|UniqueId=\HBIARVYV|Kind=1|AlternatePart= 
-Variation25=Designator=R58|UniqueId=\RAJRRWIC|Kind=1|AlternatePart= 
-Variation26=Designator=R57|UniqueId=\AOHTPDWD|Kind=1|AlternatePart= 
+Variation24=Designator=R65|UniqueId=\HBIARVYV|Kind=1|AlternatePart= 
+Variation25=Designator=R57|UniqueId=\RAJRRWIC|Kind=1|AlternatePart= 
+Variation26=Designator=R56|UniqueId=\AOHTPDWD|Kind=1|AlternatePart= 
+Variation27=Designator=R11|UniqueId=\TWSPWEMZ|Kind=1|AlternatePart= 
+Variation28=Designator=R12|UniqueId=\HGBGANBI|Kind=1|AlternatePart= 
+Variation29=Designator=R13|UniqueId=\OQWNPIQP|Kind=1|AlternatePart= 
+Variation30=Designator=R14|UniqueId=\EDYGRBQX|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -429,7 +433,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon LBP6020
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
